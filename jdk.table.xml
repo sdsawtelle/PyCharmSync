@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.8 (C:\Users\Sonya\Anaconda\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="C:\Users\Sonya\Anaconda\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Anaconda/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages/PIL" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages/Sphinx-1.2.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://$USER_HOME$/Anaconda/Lib/site-packages/runipy-0.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Anaconda/Lib/site-packages/setuptools-5.8-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1989494160" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
