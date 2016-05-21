@@ -17,4 +17,7 @@
   <action id="com.andrewbrookins.idea.wrap.WrapAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="com.jetbrains.python.console.PyOpenDebugConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
 </keymap>
