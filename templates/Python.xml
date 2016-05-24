@@ -1,0 +1,10 @@
+<templateSet group="Python">
+  <template name="readlines" value="# Read the file into a list where each line is an element, and strip the newline characters.&#10;with open($filepath$) as text:&#10;    $linelist$ = text.readlines()&#10;    $linelist$ = [word.strip(&quot;\n&quot;) for word in $linelist$]&#10;&#10;$END$" description="Read in a newline-delimited text file into a list and strip the newline characters off each element" toReformat="false" toShortenFQNames="true">
+    <variable name="filepath" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="linelist" expression="" defaultValue="newlist" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+</templateSet>
