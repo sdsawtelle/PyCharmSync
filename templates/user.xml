@@ -5,4 +5,10 @@
       <option name="Python_Class" value="true" />
     </context>
   </template>
+  <template name="scipy" value="import pandas as pd&#10;import numpy as np&#10;import matplotlib.pyplot as plt&#10;import matplotlib&#10;import math&#10;import statsmodels.api as sm&#10;&#10;$END$" description="imports the full scipy stack under standard names." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
 </templateSet>
