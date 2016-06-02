@@ -1,5 +1,11 @@
 <templateSet group="user">
-  <template name="header" value="&quot;&quot;&quot;$END$&#10;&quot;&quot;&quot;&#10;&#10;import os  # access to systems primitives&#10;&#10;__author__ = 'Sonya'&#10;__email__ = &quot;sdsawtelle@gmail.com&quot;&#10;__version__ = &quot;2.7.8&quot;&#10;" description="Puts the header at the beginning of the file and lets you fill in the docstring." toReformat="false" toShortenFQNames="true">
+  <template name="header" value="&quot;&quot;&quot; $END$&#10;&quot;&quot;&quot;&#10;&#10;__author__ = 'Sonya'&#10;__email__ = &quot;sdsawtelle@gmail.com&quot;&#10;__version__ = &quot;3.5&quot;&#10;" description="Puts the header at the beginning of the file and lets you fill in the docstring." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="scipy" value="import pandas as pd&#10;import numpy as np&#10;import matplotlib.pyplot as plt&#10;import matplotlib&#10;import math&#10;import statsmodels.api as sm&#10;&#10;$END$" description="imports the full scipy stack under standard names." toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
       <option name="Python_Class" value="true" />
