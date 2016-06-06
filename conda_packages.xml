@@ -76,7 +76,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.0.7" />
+        <entry key="conda" value="4.0.8" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.20.3" />
         <entry key="conda-env" value="2.4.5" />
@@ -134,7 +134,7 @@
         <entry key="feedparser" value="5.2.1" />
         <entry key="fiona" value="1.6.0" />
         <entry key="flake8" value="2.5.1" />
-        <entry key="flask" value="0.10.1" />
+        <entry key="flask" value="0.11" />
         <entry key="flask-cors" value="2.1.2" />
         <entry key="flask-login" value="0.2.11" />
         <entry key="flask-wtf" value="0.11" />
@@ -353,7 +353,7 @@
         <entry key="pyodbc" value="3.0.10" />
         <entry key="pyopengl" value="3.1.1a1" />
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
-        <entry key="pyopenssl" value="0.15.1" />
+        <entry key="pyopenssl" value="0.16.0" />
         <entry key="pyparsing" value="2.1.4" />
         <entry key="pyproj" value="1.9.4" />
         <entry key="pyqt" value="4.11.4" />
@@ -395,7 +395,7 @@
         <entry key="requests" value="2.10.0" />
         <entry key="requests-file" value="1.4" />
         <entry key="requests-kerberos" value="0.8.0" />
-        <entry key="rope" value="0.9.4" />
+        <entry key="rope" value="0.10.3" />
         <entry key="routes" value="2.2" />
         <entry key="ruamel_yaml" value="0.11.7" />
         <entry key="runipy" value="0.1.3" />
@@ -1441,6 +1441,7 @@
               <option value="1.9.1" />
               <option value="1.6.0" />
               <option value="4.0.7" />
+              <option value="4.0.8" />
             </list>
           </value>
         </entry>
@@ -2082,6 +2083,7 @@
             <list>
               <option value="0.9" />
               <option value="0.10.1" />
+              <option value="0.11" />
             </list>
           </value>
         </entry>
@@ -4311,6 +4313,7 @@
             <list>
               <option value="0.15.1" />
               <option value="0.14" />
+              <option value="0.16.0" />
             </list>
           </value>
         </entry>
@@ -4746,6 +4749,7 @@
           <value>
             <list>
               <option value="0.9.4" />
+              <option value="0.10.3" />
             </list>
           </value>
         </entry>
@@ -5789,6 +5793,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1465126357737" />
+    <option name="LAST_TIME_CHECKED" value="1465245850618" />
   </component>
 </application>
