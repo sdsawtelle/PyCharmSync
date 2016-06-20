@@ -76,10 +76,10 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.1.1" />
+        <entry key="conda" value="4.1.2" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.21.0" />
-        <entry key="conda-env" value="2.5.0" />
+        <entry key="conda-env" value="2.5.1" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
         <entry key="conda311fix" value="1.0" />
@@ -87,7 +87,7 @@
         <entry key="configparser" value="3.5.0b2" />
         <entry key="console_shortcut" value="0.1.1" />
         <entry key="constructor" value="1.2.0" />
-        <entry key="contextlib2" value="0.4.0" />
+        <entry key="contextlib2" value="0.5.3" />
         <entry key="continuum-docs" value="2.0.0" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.1" />
@@ -1452,6 +1452,7 @@
               <option value="4.0.8" />
               <option value="4.1.1" />
               <option value="4.1.0" />
+              <option value="4.1.2" />
             </list>
           </value>
         </entry>
@@ -1534,6 +1535,7 @@
               <option value="2.4.5" />
               <option value="2.0.2" />
               <option value="2.5.0" />
+              <option value="2.5.1" />
             </list>
           </value>
         </entry>
@@ -1598,6 +1600,7 @@
           <value>
             <list>
               <option value="0.4.0" />
+              <option value="0.5.3" />
             </list>
           </value>
         </entry>
@@ -5842,6 +5845,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1466174844713" />
+    <option name="LAST_TIME_CHECKED" value="1466434713705" />
   </component>
 </application>
