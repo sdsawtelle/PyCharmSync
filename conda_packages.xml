@@ -80,7 +80,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.1.6" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="1.21.3" />
+        <entry key="conda-build" value="1.21.4" />
         <entry key="conda-env" value="2.5.1" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -376,7 +376,7 @@
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-cov" value="2.2.1" />
         <entry key="pytest-pep8" value="1.0.6" />
-        <entry key="python" value="3.5.1" />
+        <entry key="python" value="3.5.2" />
         <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-memcached" value="1.57" />
         <entry key="python-ntlm" value="1.1.0" />
@@ -1543,6 +1543,7 @@
               <option value="1.21.3" />
               <option value="1.21.1" />
               <option value="1.21.2" />
+              <option value="1.21.4" />
             </list>
           </value>
         </entry>
@@ -4597,6 +4598,8 @@
               <option value="3.3.0" />
               <option value="3.3.2" />
               <option value="2.7.12" />
+              <option value="3.4.5" />
+              <option value="3.5.2" />
             </list>
           </value>
         </entry>
@@ -5898,6 +5901,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1467736382209" />
+    <option name="LAST_TIME_CHECKED" value="1467902120056" />
   </component>
 </application>
