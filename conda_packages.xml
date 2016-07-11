@@ -10,7 +10,7 @@
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="1.3.0" />
         <entry key="alabaster" value="0.7.8" />
-        <entry key="anaconda" value="4.1.0" />
+        <entry key="anaconda" value="4.1.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-client" value="1.4.0" />
         <entry key="anaconda-navigator" value="1.2.1" />
@@ -80,7 +80,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.1.6" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="1.21.4" />
+        <entry key="conda-build" value="1.21.5" />
         <entry key="conda-env" value="2.5.1" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -88,7 +88,7 @@
         <entry key="configobj" value="5.0.6" />
         <entry key="configparser" value="3.5.0b2" />
         <entry key="console_shortcut" value="0.1.1" />
-        <entry key="constructor" value="1.2.1" />
+        <entry key="constructor" value="1.3.0" />
         <entry key="contextlib2" value="0.5.3" />
         <entry key="continuum-docs" value="2.0.0" />
         <entry key="cornice" value="1.2.1" />
@@ -212,7 +212,7 @@
         <entry key="launcher" value="1.0.0" />
         <entry key="lazy-object-proxy" value="1.2.1" />
         <entry key="ldap3" value="1.0.4" />
-        <entry key="libconda" value="3.11.0" />
+        <entry key="libconda" value="4.0.0" />
         <entry key="libdynd" value="0.7.2" />
         <entry key="libevent" value="2.0.21" />
         <entry key="libgdal" value="2.0.0" />
@@ -224,7 +224,7 @@
         <entry key="libtiff" value="4.0.6" />
         <entry key="line_profiler" value="1.0" />
         <entry key="llvm" value="3.3" />
-        <entry key="llvmlite" value="0.11.0" />
+        <entry key="llvmlite" value="0.12.1" />
         <entry key="llvmmath" value="0.1.2" />
         <entry key="llvmpy" value="0.12.7" />
         <entry key="locket" value="0.2.0" />
@@ -286,7 +286,7 @@
         <entry key="nose" value="1.3.7" />
         <entry key="notebook" value="4.2.1" />
         <entry key="nsis" value="2.46" />
-        <entry key="numba" value="0.26.0" />
+        <entry key="numba" value="0.27.0" />
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.0" />
@@ -298,7 +298,7 @@
         <entry key="oracle-instantclient" value="11.2.0.4.0" />
         <entry key="orange" value="2.7.8" />
         <entry key="orange-app" value="1.0" />
-        <entry key="orange3" value="3.3.1" />
+        <entry key="orange3" value="3.3.6" />
         <entry key="ordereddict" value="1.1" />
         <entry key="pandas" value="0.18.1" />
         <entry key="pandas-datareader" value="0.2.1" />
@@ -616,6 +616,7 @@
               <option value="2.5.0" />
               <option value="4.0.0" />
               <option value="4.1.0" />
+              <option value="4.1.1" />
             </list>
           </value>
         </entry>
@@ -1544,6 +1545,7 @@
               <option value="1.21.1" />
               <option value="1.21.2" />
               <option value="1.21.4" />
+              <option value="1.21.5" />
             </list>
           </value>
         </entry>
@@ -1627,6 +1629,7 @@
               <option value="1.2.0" />
               <option value="1.1.0" />
               <option value="1.2.1" />
+              <option value="1.3.0" />
             </list>
           </value>
         </entry>
@@ -2879,6 +2882,7 @@
               <option value="3.7.1" />
               <option value="3.11.0" />
               <option value="3.7.2" />
+              <option value="4.0.0" />
             </list>
           </value>
         </entry>
@@ -2990,6 +2994,7 @@
               <option value="0.7.0" />
               <option value="0.10.0" />
               <option value="0.11.0" />
+              <option value="0.12.1" />
             </list>
           </value>
         </entry>
@@ -3630,6 +3635,7 @@
               <option value="0.5.0" />
               <option value="0.3.2" />
               <option value="0.26.0" />
+              <option value="0.27.0" />
             </list>
           </value>
         </entry>
@@ -3796,6 +3802,7 @@
             <list>
               <option value="3.3.1" />
               <option value="3.2a1" />
+              <option value="3.3.6" />
             </list>
           </value>
         </entry>
@@ -5901,6 +5908,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1467902120056" />
+    <option name="LAST_TIME_CHECKED" value="1468187218275" />
   </component>
 </application>
