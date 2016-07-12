@@ -297,7 +297,7 @@
         <entry key="openssl" value="1.0.2h" />
         <entry key="oracle-instantclient" value="11.2.0.4.0" />
         <entry key="orange" value="2.7.8" />
-        <entry key="orange-app" value="1.0" />
+        <entry key="orange-app" value="1.0.1" />
         <entry key="orange3" value="3.3.6" />
         <entry key="ordereddict" value="1.1" />
         <entry key="pandas" value="0.18.1" />
@@ -3794,6 +3794,7 @@
           <value>
             <list>
               <option value="1.0" />
+              <option value="1.0.1" />
             </list>
           </value>
         </entry>
@@ -5908,6 +5909,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1468187218275" />
+    <option name="LAST_TIME_CHECKED" value="1468323319626" />
   </component>
 </application>
