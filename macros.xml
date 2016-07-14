@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test">
+      <action id="Replace" />
+      <typing text-keycode="92:0;47:0">\/</typing>
+    </macro>
+    <macro name="test2" />
+  </component>
+</application>
