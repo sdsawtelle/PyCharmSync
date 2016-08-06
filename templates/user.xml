@@ -13,4 +13,11 @@
       <option name="Python_Class" value="true" />
     </context>
   </template>
+  <template name="section" value="#######################################################################&#10;############ $SECTION$ ############&#10;#######################################################################&#10;$END$" description="Makes a comment section header" toReformat="false" toShortenFQNames="true">
+    <variable name="SECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
 </templateSet>
