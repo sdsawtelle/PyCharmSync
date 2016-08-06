@@ -94,7 +94,7 @@
         <entry key="continuum-docs" value="2.0.0" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
-        <entry key="coverage" value="4.1" />
+        <entry key="coverage" value="4.2" />
         <entry key="cryptacular" value="1.4.1" />
         <entry key="cryptography" value="1.4" />
         <entry key="cssselect" value="0.9.2" />
@@ -1711,6 +1711,7 @@
               <option value="4.0.3" />
               <option value="4.0" />
               <option value="4.1" />
+              <option value="4.2" />
             </list>
           </value>
         </entry>
@@ -6095,6 +6096,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1470393412804" />
+    <option name="LAST_TIME_CHECKED" value="1470484081869" />
   </component>
 </application>
