@@ -28,6 +28,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="C:\Users\Sonya\Anaconda2\envs\securitytrx\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda2\python.exe" value="true" />
         <entry key="C:\Users\Sonya\Anaconda3\envs\bgg\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda3\python.exe" value="true" />
@@ -36,6 +37,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="C:\Users\Sonya\Anaconda2\envs\securitytrx\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda2\python.exe" value="true" />
         <entry key="C:\Users\Sonya\Anaconda3\envs\bgg\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda3\python.exe" value="true" />
@@ -44,6 +46,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="C:\Users\Sonya\Anaconda2\envs\securitytrx\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda2\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda3\envs\bgg\python.exe" value="false" />
         <entry key="C:\Users\Sonya\Anaconda3\python.exe" value="false" />
